@@ -51,9 +51,9 @@ pharma_backend-/
 
    Example:
    ```
-   MONGODB_URI=mongodb://localhost:27017/pharma
+   MONGODB_URI=mongodb://localhost:xxxxxxxxxx
    JWT_SECRET=your_jwt_secret
-   PORT=5000
+   PORT=xxxx
    ```
 
 4. Start the server:
